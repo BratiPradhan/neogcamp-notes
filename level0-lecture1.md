@@ -23,7 +23,7 @@ The CONSOLE has a set of functions that make it easier to interact with a page.
 
 ## LOGGING MESSAGES IN THE CONSOLE
 
-** STACK TRACE ** - THE CALL that happened first is at the bottom pf the stack trace.
+** STACK TRACE ** - THE CALL that happened first is at the bottom of the stack trace.
 Log Stack traces - ** console.trace()
 
 
