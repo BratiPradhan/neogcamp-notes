@@ -1,4 +1,4 @@
-**CONSOLE** - IT IS A **REPL**
+**CONSOLE** - IT IS A **REPL** - 
 **R**EAD, **E**VALUATE, **P**RINT, AND **L**OOP
 
 - It reads the javascript that you type into it
