@@ -34,8 +34,8 @@ console.log('%cSTYLING CONSOLE...', styles)
 
 
 ### MESSAGES LOGGED BY THE BROWSER
-####1. 404 -
+#### 1. 404 -
 The browser logs a 404 network error because the page's JAVASCRIPT tried to fetch a file that doesn't exist.
 
-####2. TypeError -
+#### 2. TypeError -
 The browser logs an uncaught TypeError because the JavaScript is trying to update a DOM node that doesn't exist.
